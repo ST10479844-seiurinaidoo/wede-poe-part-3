@@ -1,8 +1,11 @@
 # Green Pulse Solar Solutions
 
 Author: Seiuri Naidoo
+
 Student Number: ST10479844
+
 Date: 1 November 2025
+
 Module: WEDE5020 – Part 3 Portfolio of Evidence
 
 ## Overview:
