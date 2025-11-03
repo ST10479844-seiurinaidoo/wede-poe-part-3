@@ -35,3 +35,19 @@ Green Pulse Solar Solutions is a modern, responsive website designed to promote 
 2. Youtube videos answering any further questions.
 
 ## Design & Styling:
+### Color Palette:
+1. #00bfff
+2. #fffc00
+3. #39f88d
+4. #f17781
+
+### Typography:
+1. Primary Font: Source Sans Pro
+2. Headings: Didot
+
+### Layout:
+1. Clean and accessible structure with responsive design for all devices.
+2. Consistent navigation bar across all pages.
+
+## Features:
+1. 
